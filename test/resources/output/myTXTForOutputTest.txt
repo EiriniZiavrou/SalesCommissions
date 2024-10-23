@@ -1,0 +1,59 @@
+Name: Kitsos Kitsopoulos
+AFM: 123456789
+
+Receipts:
+
+Receipt ID: 1
+Date: 10/12/2023
+Kind: Coats
+Sales: 5519
+Items: 87
+Company: KitsLand
+Country: Greece
+City: Ioannina
+Street: Pyrsinela 
+Number: 8
+
+Receipt ID: 2
+Date: 12/12/2023
+Kind: Coats
+Sales: 650
+Items: 16
+Company: KitsLand
+Country: Greece
+City: Ioannina
+Street: Pyrsinela 
+Number: 8
+
+Receipt ID: 3
+Date: 12/12/2023
+Kind: Shirts
+Sales: 1085
+Items: 27
+Company: KitsLand
+Country: Greece
+City: Ioannina
+Street: Pyrsinela 
+Number: 8
+
+Receipt ID: 4
+Date: 15/12/2023
+Kind: Trousers
+Sales: 5078
+Items: 156
+Company: KitsLand
+Country: Greece
+City: Ioannina
+Street: Pyrsinela 
+Number: 8
+
+Receipt ID: 5
+Date: 25/12/2023
+Kind: Trousers
+Sales: 6500
+Items: 18
+Company: KitsLand
+Country: Greece
+City: Ioannina
+Street: Pyrsinela 
+Number: 8

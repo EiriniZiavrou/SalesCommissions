@@ -1,0 +1,8 @@
+Name: Kitsos Kitsopoulos
+AFM: 123456789
+Total Sales: 18832.0
+Trousers Sales: 174.0
+Skirts Sales: 0.0
+Shirts Sales: 27.0
+Coats Sales: 103.0
+Commission: 2324.8
